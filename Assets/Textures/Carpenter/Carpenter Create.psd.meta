@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: a9d7ca6f94be436478557728d6a1a71e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Carpenter Create_head
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3904
+        width: 1303
+        height: 967
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: Carpenter Create_L door1
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3870
+        width: 620
+        height: 864
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Carpenter Create_R door1
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 3870
+        width: 625
+        height: 864
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Carpenter Create_L door2
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 3875
+        width: 625
+        height: 864
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Carpenter Create_R door2
+      rect:
+        serializedVersion: 2
+        x: 3962
+        y: 3875
+        width: 620
+        height: 864
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Carpenter Create_L arm
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3284
+        width: 292
+        height: 405
+      alignment: 9
+      pivot: {x: .754185915, y: .934423804}
+    - name: Carpenter Create_L hand2
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 3220
+        width: 368
+        height: 469
+      alignment: 8
+      pivot: {x: 1, y: 0}
+    - name: Carpenter Create_L hand1
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 3220
+        width: 381
+        height: 445
+      alignment: 8
+      pivot: {x: 1, y: 0}
+    - name: Carpenter Create_L hand3
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 3220
+        width: 483
+        height: 352
+      alignment: 8
+      pivot: {x: 1, y: 0}
+    - name: Carpenter Create_L hand4
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 3127
+        width: 366
+        height: 479
+      alignment: 3
+      pivot: {x: 1, y: 1}
+    - name: Carpenter Create_R arm
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2463
+        width: 310
+        height: 401
+      alignment: 9
+      pivot: {x: .246278733, y: .927313685}
+    - name: Carpenter Create_R hand2
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 2303
+        width: 366
+        height: 473
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: Carpenter Create_R hand1
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 2332
+        width: 381
+        height: 439
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: Carpenter Create_R hand3
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 2361
+        width: 490
+        height: 351
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: Carpenter Create_R hand4
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 2302
+        width: 366
+        height: 479
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: Carpenter Create_16
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 3578
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Carpenter Create_body
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1712
+        width: 1803
+        height: 1976
+      alignment: 7
+      pivot: {x: .5, y: 0}
+  spritePackingTag: 
+  userData: 

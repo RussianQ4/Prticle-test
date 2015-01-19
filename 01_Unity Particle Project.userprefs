@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Desktop\client\Assets\Application\Scripts\Utility\RogueScene.cs">
+    <Files>
+      <File FileName="..\..\Desktop\client\Assets\Plugins\WebView\WebViewObject.cs" Line="216" Column="7" />
+      <File FileName="..\..\Desktop\client\Assets\Application\Settings\Define\SceneNames.cs" Line="113" Column="20" />
+      <File FileName="..\..\Desktop\client\Assets\Application\Scripts\Utility\RogueScene.cs" Line="257" Column="42" />
+      <File FileName="..\..\Desktop\client\Assets\Application\Settings\Editor\SceneMenuItem.cs" Line="266" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

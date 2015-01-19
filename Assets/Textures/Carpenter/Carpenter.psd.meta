@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: cbffc1b62074bb54cbfcd85914df967d
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Carpenter_0
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 4462
+        width: 1295
+        height: 1072
+      alignment: 9
+      pivot: {x: .460702211, y: .126593754}
+    - name: Carpenter_1
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 4450
+        width: 451
+        height: 938
+      alignment: 9
+      pivot: {x: .744485438, y: .0804982111}
+    - name: Carpenter_2
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 4711
+        width: 785
+        height: 466
+      alignment: 9
+      pivot: {x: .734726131, y: .5}
+    - name: Carpenter_3
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 4568
+        width: 744
+        height: 620
+      alignment: 9
+      pivot: {x: .363197565, y: .623122454}
+    - name: Carpenter_4
+      rect:
+        serializedVersion: 2
+        x: 4755
+        y: 4532
+        width: 732
+        height: 651
+      alignment: 9
+      pivot: {x: .837780535, y: .843653977}
+    - name: Carpenter_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4633
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Carpenter_6
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3536
+        width: 571
+        height: 557
+      alignment: 9
+      pivot: {x: .749949753, y: .832056224}
+    - name: Carpenter_7
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 3501
+        width: 539
+        height: 586
+      alignment: 9
+      pivot: {x: .173552051, y: .831965446}
+    - name: Carpenter_8
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 2745
+        width: 1447
+        height: 1588
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Carpenter_9
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 4076
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
